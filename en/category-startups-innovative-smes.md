@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 ref: cat-startup-pmi-innovative
 title: "Startups & Innovative SMEs"

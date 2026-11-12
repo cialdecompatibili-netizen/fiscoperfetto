@@ -4,8 +4,6 @@ Services:
   - title: "All services"
     url: /en/services/
   - divider: true
-  - title: "Startups & Innovative SMEs"
-    url: /en/services/startups-innovative-smes/
   - title: "E-commerce & Digital Business"
     url: /en/services/e-commerce-digital-business/
   - title: "Strategic Tax Advice"
@@ -20,11 +18,5 @@ Services:
     url: /en/services/tax-returns/
   - title: "Advanced Digital Services"
     url: /en/services/advanced-digital-services/
-  - title: "Corporate Advisory"
-    url: /en/services/corporate-advisory/
-  - title: "Internationalisation"
-    url: /en/services/internationalisation/
   - title: "INPS/INAIL Compliance"
     url: /en/services/inps-inail-compliance/
-  - title: "Employment Law"
-    url: /en/services/employment-law/

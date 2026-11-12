@@ -1,11 +1,10 @@
 ---
-published: false
 layout: single
-title: "Opening a VAT number: AA9/12, AA7/10 and ComUnica compared"
+title: "Opening a VAT number: form AA9/12, ComUnica and real timing"
 date: 2026-07-18
 permalink: /en/services/vat-number-opening-and-management/apertura-partita-iva-aa9-12-comunica/
-excerpt: "The three procedures for opening a VAT number in Italy: form AA9/12 for individuals, AA7/10 for companies, ComUnica for those registering with the Business Register."
-seo_description: "The three procedures for opening a VAT number in Italy: form AA9/12 for individuals, AA7/10 for companies, ComUnica for those registering with the Business Register."
+excerpt: "What you need to open a VAT number, which form to fill in and how long it takes between the request and the first invoice."
+seo_description: "What you need to open a VAT number, which form to fill in and how long it takes between the request and the first invoice."
 categories:
   - "VAT Number Opening and Management"
 ref: art-apertura-partita-iva-aa9-12-comunica
@@ -13,6 +12,6 @@ lang: en
 locale: en
 ---
 
-![Opening a VAT number: AA9/12, AA7/10 and ComUnica compared]({{ '/assets/images/blog/apertura-partita-iva-aa9-12-comunica.jpg' | relative_url }})
+![Opening a VAT number: form AA9/12, ComUnica and real timing]({{ '/assets/images/blog/apertura-partita-iva-aa9-12-comunica.jpg' | relative_url }})
 
-<p>Opening a VAT number in Italy means choosing the right tool among three different procedures, depending on your situation. They are not interchangeable: using the wrong one means having to correct or repeat the filing.</p><h2 id="modello-aa9-12-per-le-persone-fisiche">Form AA9/12: for individuals</h2><p>This is the standard form for those opening a VAT number as an individual, under either the flat-rate or the ordinary regime. It is submitted to the Revenue Agency, also online through the electronic services, and takes a few days to activate. It is the most common route for freelancers and small sole proprietors.</p><h2 id="modello-aa7-10-per-soggetti-diversi-dalle-persone-fisiche">Form AA7/10: for entities other than individuals</h2><p>Used when the VAT number is to be registered to a company, a body or an association rather than an individual. The data required is more detailed: registered office, representative, corporate purpose.</p><h2 id="comunica-la-procedura-integrata-per-chi-si-iscrive-al-registro-imprese">ComUnica: the integrated procedure for those registering with the Business Register</h2><p>When opening the VAT number goes hand in hand with registration with the Business Register (typical for SRL, SNC, SAS), ComUnica lets you complete in a single electronic filing the formalities towards the Revenue Agency, the Business Register, INPS and INAIL, avoiding entering the same data on several portals.</p><div class="art-nota"><p>The choice of procedure depends on the legal form you intend to adopt, not on personal preference. Before proceeding, it is worth checking which route matches your situation, to avoid filings that have to be corrected later.</p></div>
+<p>Opening a VAT number is less complicated than it seems, but it requires order: correct data, ATECO code, chosen regime. Then the procedure starts and within a few days you can issue an invoice.</p><h2>What you need</h2><p>Identity document, tax code, residence address, an ATECO code and a PEC or a digital address. If you already have an accountant, they will prepare everything.</p><h2>Form AA9/12</h2><p>For individuals the AA9/12 form is submitted to the Revenue Agency. In it you state your personal data, the activity, the regime and the start date.</p><h2>ComUnica and INPS</h2><p>If you have to register with the Business Register or with INPS as a craftsperson or shopkeeper, the procedure goes through ComUnica. For freelancers without a professional fund, the INPS position is the Separate Management.</p><h2>How long it takes</h2><p>With complete data, the VAT number is normally active within a few working days. Most of the time is lost when documents are missing or the wrong code is chosen.</p><div class="art-nota"><p>Before opening, simulate taxes and contributions with the regime you have in mind: it spares you nasty surprises in June.</p></div>

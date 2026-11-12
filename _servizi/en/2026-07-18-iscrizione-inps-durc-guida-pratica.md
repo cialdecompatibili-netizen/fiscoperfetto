@@ -1,11 +1,10 @@
 ---
-published: false
 layout: single
 title: "INPS, INAIL and DURC: the social security obligations every professional should know"
 date: 2026-07-18
 permalink: /en/services/inps-inail-compliance/iscrizione-inps-durc-guida-pratica/
-excerpt: "Enrolment in the Traders, Artisans or Separate Fund, minimum contributions and DURC: how social security obligations work."
-seo_description: "Enrolment in the Traders, Artisans or Separate Fund, minimum contributions and DURC: how social security obligations work."
+excerpt: "INPS and INAIL registration and the DURC: what they are and when a professional needs them."
+seo_description: "INPS and INAIL registration and the DURC: what they are and when a professional needs them."
 categories:
   - "INPS/INAIL Compliance"
 ref: art-iscrizione-inps-durc-guida-pratica
@@ -15,4 +14,4 @@ locale: en
 
 ![INPS, INAIL and DURC: the social security obligations every professional should know]({{ '/assets/images/blog/iscrizione-inps-durc-guida-pratica.jpg' | relative_url }})
 
-<p>Opening a VAT number almost always also means enrolling in social security, but it is not always clear which fund: Traders, Artisans or Separate Fund follow different criteria, with different contributions and calculation rules. Choosing the wrong fund at the start often means having to correct it years later with adjustments.</p><h2 id="which-inps-fund-to-choose">Which INPS fund to choose</h2><p>The Traders Fund concerns those carrying out commercial activity with personal prevalence requirements; the Artisans Fund those practising a craft registered in the register; the Separate Fund covers freelancers without their own pension fund and collaborators. The choice depends on the activity actually carried out.</p><h2 id="minimum-contributions-and-ceilings">Minimum contributions and ceilings</h2><p>Traders and Artisans pay contributions calculated on a fixed minimum income, plus a percentage share on income above it. The Separate Fund applies a direct percentage rate on income earned, with no mandatory fixed minimum in most cases.</p><h2 id="the-durc-what-it-is-really-for">The DURC: what it is really for</h2><p>The Single Social Security Compliance Document (DURC) certifies the regularity of INPS and INAIL payments and is often required for public tenders, incentives or subcontracting. An irregular DURC, even for a minimal delay, can block payments or participation in tenders already under way.</p><div class="art-nota"><p>INAIL enrolment concerns those carrying out activities with accident risk: the premium is calculated on the risk of the work, with sector-specific rates to be checked when the activity starts.</p></div>
+<p>Opening a VAT number often brings social security obligations with it. Knowing them right away avoids fines and delays.</p><h2>INPS registration</h2><p>It depends on the activity: craftspeople, shopkeepers or Separate Management. Understanding which one applies to you is the first step, because your contributions depend on it.</p><h2>INAIL</h2><p>It is the insurance against accidents and occupational diseases. For some activities it is compulsory, for others it is not: check your case.</p><h2>The DURC</h2><p>The Single Document of Contributory Regularity certifies that your payments are up to date. A client or an entity may ask for it for works and contracts, and it is valid for a limited time.</p><h2>How to stay compliant</h2><p>Pay on the due dates, keep your documents and periodically check your position on the INPS website.</p><h2>How Fisco Perfetto helps you</h2><p>We explain your situation in plain words and tell you what to do, in what order and by which deadlines. Tax rules change often: before deciding, always check your case with a consultant.</p>

@@ -1,11 +1,10 @@
 ---
-published: false
 layout: single
-title: "Flat-rate regime 2026: requirements and thresholds to check before opening a VAT number"
+title: "Flat-rate regime: can you really use it? The 5-minute check"
 date: 2026-07-18
 permalink: /en/services/vat-number-opening-and-management/regime-forfettario-verifica-requisiti/
-excerpt: "Flat-rate regime 2026: 85,000 euro threshold, 35,000 euro employee limit, grounds for exclusion. A clear guide to see whether you qualify."
-seo_description: "Flat-rate regime 2026: 85,000 euro threshold, 35,000 euro employee limit, grounds for exclusion. A clear guide to see whether you qualify."
+excerpt: "Before choosing the flat-rate regime, check the revenue threshold, exclusion causes and coefficient: all it takes is a quarter of an hour and a calculator."
+seo_description: "Before choosing the flat-rate regime, check the revenue threshold, exclusion causes and coefficient: all it takes is a quarter of an hour and a calculator."
 categories:
   - "VAT Number Opening and Management"
 ref: art-regime-forfettario-verifica-requisiti
@@ -13,6 +12,6 @@ lang: en
 locale: en
 ---
 
-![Flat-rate regime 2026: requirements and thresholds to check before opening a VAT number]({{ '/assets/images/blog/regime-forfettario-verifica-requisiti.jpg' | relative_url }})
+![Flat-rate regime: can you really use it? The 5-minute check]({{ '/assets/images/blog/regime-forfettario-verifica-requisiti.jpg' | relative_url }})
 
-<p>The flat-rate regime is the starting choice for most people opening a new VAT number: favourable taxation at 15% (or 5% for the first 5 years for under-35s in certain cases) and few obligations. But access is not automatic: in 2026 precise limits remain confirmed that are worth knowing before choosing.</p><h2 id="the-85-000-euro-threshold">The 85,000 euro threshold</h2><p>For 2026 the limit on annual revenue or fees remains set at 85,000 euros, calculated on a cash basis (what counts is when you receive payment, not when you invoice). If during the year you exceed this threshold but stay below 100,000 euros, you can remain in the flat-rate regime until year end and move to the ordinary regime from 1 January of the following year. If instead you exceed 100,000 euros, exit is immediate: from the invoice that triggers the excess you must already apply VAT.</p><h2 id="the-limit-if-you-also-have-other-income">The limit if you also have other income</h2><p>Those who in the previous year received employment income or a pension cannot access the flat-rate regime if this exceeded 35,000 euros. The limit does not apply if the employment relationship ended by 31 December of the previous year and another does not follow immediately.</p><h2 id="the-other-grounds-for-exclusion">The other grounds for exclusion</h2><p>You cannot access the flat-rate regime if you simultaneously participate in partnerships or professional associations or control an SRL carrying out an activity linked to yours, if spending on staff or collaborators exceeds 20,000 euros a year, or if you invoice mainly your former employer from the last two years.</p><div class="art-nota"><p>Checking all the requirements together, not just the turnover ceiling, avoids discovering months later that you are not entitled to the chosen regime and having to recalculate tax already paid.</p></div>
+<p>The flat-rate regime is the favourite of those who open a VAT number on their own: a substitute tax in place of IRPEF and surcharges, no VAT to pay and very few obligations. But it is not for everyone, and finding out afterwards is costly.</p><h2>First check: how much you invoice</h2><p>The limit is 85,000 euro of revenue or fees in a year. If you exceed it slightly you stay in until the end of the year and move to the ordinary regime the following year; if you exceed 100,000 euro you leave immediately, from the invoice that goes over.</p><h2>The exclusion causes</h2><p>You cannot use it if you take part in partnerships or limited companies with an activity linked to yours, if you work mainly for a former employer, if you are a non-resident or if you have employment income above the set threshold. Read the list calmly before opening.</p><h2>How to calculate what you pay</h2><p>Take your turnover, apply the profitability coefficient of your ATECO code and pay the substitute tax on the result: 5% for the first five years if you meet the new-activity requirements, 15% afterwards. INPS contributions are added.</p><div class="art-nota"><p>Test it with your own numbers: estimated turnover, ATECO code and coefficient. If the result surprises you, talk to an accountant before opening.</p></div>

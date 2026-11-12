@@ -1,11 +1,10 @@
 ---
-published: false
 layout: single
-title: "Redditi tax return: the differences between PF, SC, SP and ENC"
+title: "Tax return for VAT-number holders: Modello Redditi PF, what to know"
 date: 2026-07-15
 permalink: /en/services/tax-returns/modello-redditi-pf-sc-sp-enc/
-excerpt: "The Redditi tax return comes in different versions depending on who is filing: an individual, a limited company, a partnership or a non-commercial entity."
-seo_description: "The Redditi tax return comes in different versions depending on who is filing: an individual, a limited company, a partnership or a non-commercial entity."
+excerpt: "The Modello Redditi for VAT-number holders: sections to fill in, deadlines and how balance and advances are calculated."
+seo_description: "The Modello Redditi for VAT-number holders: sections to fill in, deadlines and how balance and advances are calculated."
 categories:
   - "Tax Returns"
 ref: art-modello-redditi-pf-sc-sp-enc
@@ -13,6 +12,6 @@ lang: en
 locale: en
 ---
 
-![Redditi tax return: the differences between PF, SC, SP and ENC]({{ '/assets/images/blog/modello-redditi-pf-sc-sp-enc.jpg' | relative_url }})
+![Tax return for VAT-number holders: Modello Redditi PF, what to know]({{ '/assets/images/blog/modello-redditi-pf-sc-sp-enc.jpg' | relative_url }})
 
-<p>The Redditi return is not a single form: the final letters (PF, SC, SP, ENC) indicate which version to fill in, and each has different sections and income calculation rules.</p><h2 id="redditi-pf-persone-fisiche">Redditi PF - individuals</h2><p>Used by self-employed workers, sole proprietors and anyone whose income does not fit the simple pre-filled return: it gathers employment, business, property and investment income in a single form.</p><h2 id="redditi-sc-società-di-capitali">Redditi SC - limited companies</h2><p>For SRL, SPA and SAPA: income is determined starting from the statutory financial result, adjusted according to tax rules (increases and decreases) down to the taxable amount for corporate income tax (IRES).</p><h2 id="redditi-sp-società-di-persone">Redditi SP - partnerships</h2><p>For SNC and SAS: the company reports the income produced, but the tax is then paid by the individual partners in proportion to their share, under the principle of tax transparency.</p><h2 id="redditi-enc-enti-non-commerciali">Redditi ENC - non-commercial entities</h2><p>For associations, foundations and bodies whose main activity is not commercial: it distinguishes institutional income (often not taxed) from any income from ancillary commercial activity.</p><div class="art-nota"><p>Using the wrong form is not just a formal mistake: it radically changes how taxable income is calculated and therefore the tax due.</p></div>
+<p>Anyone with a VAT number files the Modello Redditi for individuals every year. It contains income, contributions and taxes, and the balance and advance payments come from it.</p><h2>What it contains</h2><p>The sections dedicated to the activity, section LM if you are flat-rate, the contributions paid and any other income.</p><h2>When it is filed</h2><p>Filing is annual, with a deadline in autumn; the balance and first advance payments fall due in summer, the second advance at the end of November.</p><h2>Balance and advances</h2><p>Advances anticipate next year's tax. You can calculate them on the historical figure or with the forecast method, if you think you will earn less.</p><div class="art-nota"><p>Keep invoices and receipts in order during the year: the return then takes only a few hours of work.</p></div>

@@ -17,7 +17,7 @@ permalink: /en/shop/
 {% if site.ecommerce == true %}
 <div id="negozio" data-tracker="{{ site.ordini.tracker }}">
 <div class="nz-pills">
-<button type="button" class="nz-pill on" data-cat="">Tutti</button>
+<button type="button" class="nz-pill on" data-cat="">All</button>
 {% for c in site.data.catalogo.categorie %}{% unless c.genitore %}
 <a class="nz-cpill" href="{% include shop-url.html k="cat" id=c.id %}">{{ c.icona }} {{ c.tr[page.lang].nome | default: c.nome }}</a>
 {% endunless %}{% endfor %}

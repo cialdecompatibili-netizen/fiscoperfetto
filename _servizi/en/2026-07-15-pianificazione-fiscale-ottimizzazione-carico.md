@@ -1,11 +1,10 @@
 ---
-published: false
 layout: single
-title: "Tax planning: reducing your tax burden legally"
+title: "Tax planning: reduce your burden legally"
 date: 2026-07-15
 permalink: /en/services/strategic-tax-advice/pianificazione-fiscale-ottimizzazione-carico/
-excerpt: "Tax planning uses the tools provided by law to reduce your tax burden over time, without being confused with avoidance or evasion."
-seo_description: "Tax planning uses the tools provided by law to reduce your tax burden over time, without being confused with avoidance or evasion."
+excerpt: "How to reduce taxes as a freelancer while staying within the law: regime, timing and choices to make beforehand."
+seo_description: "How to reduce taxes as a freelancer while staying within the law: regime, timing and choices to make beforehand."
 categories:
   - "Strategic Tax Advice"
 ref: art-pianificazione-fiscale-ottimizzazione-carico
@@ -13,6 +12,6 @@ lang: en
 locale: en
 ---
 
-![Tax planning: reducing your tax burden legally]({{ '/assets/images/blog/pianificazione-fiscale-ottimizzazione-carico.jpg' | relative_url }})
+![Tax planning: reduce your burden legally]({{ '/assets/images/blog/pianificazione-fiscale-ottimizzazione-carico.jpg' | relative_url }})
 
-<p>Planning your taxes does not mean paying less than you owe, but choosing in advance, among the options the law provides, the one that produces the lowest legitimate tax burden for the specific situation of the business or professional.</p><h2 id="la-differenza-tra-pianificazione-ed-evasione">The difference between planning and evasion</h2><p>Tax planning uses rules, optional regimes and incentives already provided by the legislator. Avoidance stretches the purpose of a rule to obtain an advantage the legislator never intended, and is penalised; evasion hides income or transactions and is a crime. Only the first is a sound and sustainable strategy.</p><h2 id="le-leve-principali">The main levers</h2><p>The timing of transactions (for example when to collect income or deduct a cost), the choice of company form, the bookkeeping regime best suited to your revenue, the use of available tax credits, and the group structure where several related companies are involved.</p><h2 id="perché-farla-con-anticipo">Why plan ahead</h2><p>The most effective tax choices are made before the transaction takes place, not in the return after the fact: changing regime, structuring an investment or planning a generational handover takes time and advance assessment.</p><div class="art-nota"><p>Serious tax planning starts from a periodic analysis of the real situation of the business, not from standard solutions applied regardless of the specific case.</p></div>
+<p>Tax planning is not an end-of-year trick: it is a set of choices made in time, before the tax falls due.</p><h2>Choose the regime well</h2><p>Flat-rate, simplified or ordinary change the tax burden for the same income. Compare them using your real figures, not feelings.</p><h2>Watch the timing</h2><p>Purchases and investments weigh on the year in which you make them. Having a forecast of revenue and costs tells you when it is worth moving an expense.</p><h2>Mind the advance payments</h2><p>Advances are calculated on the previous year: if your income drops or rises sharply, it is worth redoing the calculation so as not to pay tax in advance for nothing.</p><h2>What not to do</h2><p>Avoid shortcuts such as fictitious invoices or non-business costs. The saving is short-lived and the penalties are not.</p><h2>How Fisco Perfetto helps you</h2><p>We explain your situation in plain words and tell you what to do, in what order and by which deadlines. Tax rules change often: before deciding, always check your case with a consultant.</p>

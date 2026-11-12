@@ -1,11 +1,10 @@
 ---
-published: false
 layout: single
-title: "The VAT OSS scheme for e-commerce: how it works"
+title: "OSS VAT regime for e-commerce: how it works"
 date: 2026-07-15
 permalink: /en/services/e-commerce-digital-business/regime-oss-iva-ecommerce/
-excerpt: "The OSS scheme simplifies VAT on online sales to EU consumers: a single registration instead of registering in every destination country."
-seo_description: "The OSS scheme simplifies VAT on online sales to EU consumers: a single registration instead of registering in every destination country."
+excerpt: "Do you sell online to customers in other EU countries? The OSS regime simplifies VAT, here is how."
+seo_description: "Do you sell online to customers in other EU countries? The OSS regime simplifies VAT, here is how."
 categories:
   - "E-commerce & Digital Business"
 ref: art-regime-oss-iva-ecommerce
@@ -13,6 +12,6 @@ lang: en
 locale: en
 ---
 
-![The VAT OSS scheme for e-commerce: how it works]({{ '/assets/images/blog/regime-oss-iva-ecommerce.jpg' | relative_url }})
+![OSS VAT regime for e-commerce: how it works]({{ '/assets/images/blog/regime-oss-iva-ecommerce.jpg' | relative_url }})
 
-<p>If you sell online to private consumers in other EU countries, you must apply the VAT of the destination country, not Italian VAT: without the OSS scheme you would need a tax registration in each of those countries.</p><h2 id="cos-e-il-regime-oss">What the OSS scheme is</h2><p>The One Stop Shop lets you declare and pay, in a single quarterly return filed in Italy, the VAT due on all B2C sales to consumers in other EU states, avoiding multiple registrations.</p><h2 id="chi-può-aderire">Who can join</h2><p>Businesses that sell goods at a distance to EU private individuals (including e-commerce on marketplaces, except where the marketplace itself is treated as the seller for VAT purposes) or that supply B2C digital services in other member states can join.</p><h2 id="come-funziona-in-pratica">How it works in practice</h2><p>Once you exceed the threshold of 10,000 euros a year of intra-EU sales to private individuals, VAT must be calculated at the rate of the customer's country. Joining the OSS spares you from filing separate returns in each country: everything flows into a single quarterly procedure managed by the Italian Revenue Agency.</p><div class="art-nota"><p>Joining the OSS is not compulsory but is almost always worthwhile for those who sell regularly in several EU countries: it avoids multiple VAT registrations and drastically reduces the administrative burden.</p></div>
+<p>When you sell to consumers in other countries of the European Union, the VAT to apply may be that of the customer's country. The OSS regime saves you from registering in every State.</p><h2>When it applies</h2><p>The switch to the VAT of the destination country applies when distance sales to EU consumers exceed an overall annual threshold. Below that threshold you can keep using Italian VAT.</p><h2>How OSS works</h2><ul><li>You register once, through the Revenue Agency portal.</li><li>You apply the rate of the customer's country on the invoice.</li><li>You file a quarterly return and pay the VAT in Italy.</li></ul><h2>Who it is for</h2><p>Anyone selling digital products or services to private individuals in Europe: online shops, creators with digital products, small marketplaces.</p><h2>What to keep</h2><p>Proof of the customer's residence, the rates applied and the sales records by country, to be kept for the required years.</p><h2>How Fisco Perfetto helps you</h2><p>We explain your situation in plain words and tell you what to do, in what order and by which deadlines. Tax rules change often: before deciding, always check your case with a consultant.</p>
