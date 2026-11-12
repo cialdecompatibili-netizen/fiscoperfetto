@@ -1,11 +1,10 @@
 ---
-published: false
 layout: single
 title: "Regime OSS IVA per l'e-commerce: come funziona"
 date: 2026-07-15
 permalink: /servizi/e-commerce-business-digitali/regime-oss-iva-ecommerce/
-excerpt: "Il regime OSS semplifica l'IVA sulle vendite online ai consumatori UE: un'unica registrazione invece di identificarsi in ogni paese di destinazione."
-seo_description: "Il regime OSS semplifica l'IVA sulle vendite online ai consumatori UE: un'unica registrazione invece di identificarsi in ogni paese di destinazione."
+excerpt: "Vendi online a clienti di altri paesi UE? Il regime OSS semplifica l'IVA, ecco come."
+seo_description: "Vendi online a clienti di altri paesi UE? Il regime OSS semplifica l'IVA, ecco come."
 categories:
   - "E-commerce & Business Digitali"
 ref: art-regime-oss-iva-ecommerce
@@ -13,4 +12,4 @@ ref: art-regime-oss-iva-ecommerce
 
 ![Regime OSS IVA per l'e-commerce: come funziona]({{ '/assets/images/blog/regime-oss-iva-ecommerce.jpg' | relative_url }})
 
-<p>Chi vende online a consumatori privati in altri paesi UE deve applicare l'IVA del paese di destinazione, non quella italiana: senza il regime OSS servirebbe una registrazione fiscale in ognuno di quei paesi.</p><h2 id="cos-e-il-regime-oss">Cos'e il regime OSS</h2><p>Il One Stop Shop permette di dichiarare e versare in un'unica dichiarazione trimestrale, presentata in Italia, l'IVA dovuta su tutte le vendite B2C verso consumatori di altri stati UE, evitando identificazioni multiple.</p><h2 id="chi-può-aderire">Chi può aderire</h2><p>Possono aderire le imprese che vendono beni a distanza a privati UE (incluso l'e-commerce su marketplace, salvo i casi in cui è il marketplace stesso a essere considerato venditore ai fini IVA) o che forniscono servizi digitali B2C in altri stati membri.</p><h2 id="come-funziona-in-pratica">Come funziona in pratica</h2><p>Una volta superata la soglia di 10.000 euro annui di vendite intra-UE a privati, l'IVA va calcolata con l'aliquota del paese del cliente. L'adesione OSS evita però di dover presentare dichiarazioni separate in ciascun paese: tutto confluisce in un'unica procedura trimestrale gestita dall'Agenzia delle Entrate italiana.</p><div class="art-nota"><p>L'adesione all'OSS non è obbligatoria ma conviene quasi sempre a chi vende con continuità in più paesi UE: evita identificazioni IVA multiple e riduce drasticamente il carico amministrativo.</p></div>
+<p>Quando vendi a consumatori in altri paesi dell'Unione europea, l'IVA da applicare può essere quella del paese del cliente. Il regime OSS evita di registrarti in ogni Stato.</p><h2 id="quando-si-applica">Quando si applica</h2><p>Il passaggio all'IVA del paese di destinazione scatta quando le vendite a distanza verso consumatori UE superano una soglia annua complessiva. Sotto quella soglia puoi continuare con l'IVA italiana.</p><h2 id="come-funziona-l-oss">Come funziona l'OSS</h2><ul><li>Ti registri una sola volta, dal portale dell'Agenzia delle Entrate.</li><li>Applichi in fattura l'aliquota del paese del cliente.</li><li>Presenti una dichiarazione trimestrale e versi l'IVA in Italia.</li></ul><h2 id="a-chi-serve">A chi serve</h2><p>A chi vende prodotti o servizi digitali a privati in Europa: negozi online, creator con prodotti digitali, piccoli marketplace.</p><h2 id="cosa-tenere">Cosa tenere</h2><p>Prove della residenza del cliente, aliquote applicate e registrazioni delle vendite per paese, da conservare per gli anni previsti.</p><h2 id="come-ti-aiuta-fisco-perfetto">Come ti aiuta Fisco Perfetto</h2><p>Ti spieghiamo la tua situazione con parole semplici e ti diciamo cosa fare, in che ordine e con quali scadenze. Le norme fiscali cambiano spesso: prima di decidere, verifica sempre il tuo caso con un consulente.</p>

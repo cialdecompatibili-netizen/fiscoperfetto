@@ -36,8 +36,6 @@ Servizi:
   - title: "Tutti i servizi"
     url: /servizi/
   - divider: true
-  - title: "Startup & PMI Innovative"
-    url: /servizi/startup-pmi-innovative/
   - title: "E-commerce & Business Digitali"
     url: /servizi/e-commerce-business-digitali/
   - title: "Consulenza Fiscale Strategica"
@@ -52,11 +50,5 @@ Servizi:
     url: /servizi/dichiarazioni-fiscali/
   - title: "Servizi Digitali Avanzati"
     url: /servizi/servizi-digitali-avanzati/
-  - title: "Consulenza Societaria"
-    url: /servizi/consulenza-societaria/
-  - title: "Internazionalizzazione"
-    url: /servizi/internazionalizzazione/
   - title: "Adempimenti INPS/INAIL"
     url: /servizi/adempimenti-inps-inail/
-  - title: "Diritto del Lavoro"
-    url: /servizi/diritto-del-lavoro/

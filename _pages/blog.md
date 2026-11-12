@@ -6,6 +6,6 @@ permalink: /blog/
 author_profile: false
 classes: wide
 share: false
-description: "Guide e approfondimenti di fisco, contabilita e diritto d'impresa: partita IVA, regime forfettario, fatturazione elettronica, startup e adempimenti."
+description: "Guide di Fisco Perfetto su partita IVA, regime forfettario, fatture, tasse e contributi per freelance, spiegate in modo semplice."
 ---
 {% include lista-categoria.html %}

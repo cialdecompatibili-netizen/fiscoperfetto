@@ -5,6 +5,6 @@ permalink: /servizi/
 ref: servizi
 author_profile: false
 classes: wide
-seo_description: "Consulenza fiscale, contabile e societaria per imprese e professionisti: startup, e-commerce, partita IVA, fatturazione elettronica, bilanci, dichiarazioni e lavoro."
+seo_description: "I servizi di Fisco Perfetto per freelance e partite IVA: apertura, regime forfettario, fatturazione elettronica, contributi INPS e dichiarazioni."
 ---
 {% include lista-categoria.html src="servizi" %}

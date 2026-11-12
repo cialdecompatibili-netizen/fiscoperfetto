@@ -1,9 +1,9 @@
 it:
   name: Italiano
-  description: "Studio commerciale con oltre 15 anni di esperienza: consulenza fiscale, contabile e societaria per imprese e professionisti, startup e P.IVA."
+  description: "Consulenza fiscale online per freelance e partite IVA: apertura, regime forfettario, fatture, tasse e contributi spiegati in modo semplice."
 en:
   name: English
-  description: "Accounting firm with over 15 years of experience: tax, accounting and corporate advice for businesses and professionals, startups and VAT numbers."
+  description: "Online tax advice for freelancers and sole proprietors: VAT number, flat-rate regime, invoices, taxes and contributions explained simply."
 de:
   name: Deutsch
 fr:
