@@ -40,6 +40,7 @@ MAI bordi laterali colorati su box, citazioni, avvisi, CTA. Box puliti con sfond
 - Risposte brevissime, modifiche in una sola chiamata.
 
 ## Cose che funzionano
+- Clonare un sito esistente in una repo nuova (12/11/2026, provato su fiscoperfetto da studiocommercialecalvi): `git clone` locale della repo sorgente, togliere `.git`, `git init -b main` + commit, `gh repo create <utente>/<nome> --public --source . --push`, poi Pages con `gh api -X POST repos/<utente>/<nome>/pages -f "source[branch]=main" -f "source[path]=/"`. Poi cercare i link col nome vecchio scritti a mano (qui solo uno in `_data/blocks_home.json`, ora `__BASEURL__/contatti/`).
 - Aggiornare la versione inglese a mano (senza admin): articoli in en/_posts/ (stesso ref, permalink /en/blog/<categoria-EN>/<slug>/, lang: en, locale: en, tr: tradotto), prodotti shop = pagina en/negozio/<id>.md + campo tr.en dentro _data/catalogo.json (nome, descrizione, descrizione_completa). Poi calcolare tr_hash solo dei file nuovi con traduzioni_sync.lg_hash (NON lanciare allinea_hash.py su tutto: segnerebbe come tradotte anche le pagine ancora da aggiornare). Verifica finale: python automation/traduzioni_sync.py deve stampare 0.
 - Test senza build locale: simulare la logica JS dell'admin con node + `vm` (stub di `lgText`/`lgCommit` e albero finto) e lanciare `node --check` sul file. Esempio: `claudetemp\test_lingue.js` (clone en -> de rinominato).
 - Rilevare le lingue dalle CARTELLE (non dal config) e normalizzare tutto il resto da li': evita config e cartelle fuori sync.
