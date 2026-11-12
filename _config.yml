@@ -27,7 +27,6 @@ languages: [it, en]
 #   dominio personalizzato (CNAME su GitHub Pages) > nome del repo. Qui NON si scrive.
 # ECCEZIONE: masthead_title = nome mostrato in alto a sinistra (una riga). Se lo togli torna il nome automatico (nome del repo).
 masthead_title: "Fisco Perfetto"
-title: "Fisco Perfetto"
 # description: testo SEO di default (meta description).
 # "brand" non e' piu' letto da nessuno: lasciato vuoto solo per compatibilita' con vecchi cloni/admin.
 brand: "Fisco Perfetto"
