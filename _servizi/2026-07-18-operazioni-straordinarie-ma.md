@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Operazioni straordinarie M&A: cosa considerare"
 date: 2026-07-18

@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Reportistica in tempo reale: KPI e flussi di cassa"
 date: 2026-07-18

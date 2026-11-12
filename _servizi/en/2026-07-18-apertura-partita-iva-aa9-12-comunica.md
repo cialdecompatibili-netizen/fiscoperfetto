@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Opening a VAT number: AA9/12, AA7/10 and ComUnica compared"
 date: 2026-07-18

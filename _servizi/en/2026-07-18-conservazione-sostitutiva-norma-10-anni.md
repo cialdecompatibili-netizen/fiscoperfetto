@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Legally compliant storage: how it works for 10 years"
 date: 2026-07-18

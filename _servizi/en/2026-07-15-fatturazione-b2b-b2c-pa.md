@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "E-invoicing for B2B, B2C and public bodies: the differences"
 date: 2026-07-15

@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Automatic bank reconciliations: how they work"
 date: 2026-07-18

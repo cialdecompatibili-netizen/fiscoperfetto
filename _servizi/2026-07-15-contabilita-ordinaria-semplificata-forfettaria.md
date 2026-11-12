@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Contabilita ordinaria, semplificata o forfettaria: quale scegliere"
 date: 2026-07-15

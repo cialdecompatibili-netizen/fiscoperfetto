@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Business plan and pitch deck for investors: how to prepare them"
 date: 2026-07-18

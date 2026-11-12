@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Stock option e piani di incentivazione per startup"
 date: 2026-07-18

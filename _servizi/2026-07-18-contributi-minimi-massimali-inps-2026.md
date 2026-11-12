@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Contributi minimi e massimali INPS 2026: come funzionano"
 date: 2026-07-18

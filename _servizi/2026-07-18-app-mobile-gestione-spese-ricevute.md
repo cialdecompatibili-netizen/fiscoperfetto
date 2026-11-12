@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "App mobile per la gestione di spese e ricevute"
 date: 2026-07-18

@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Extraordinary M&A transactions: what to consider"
 date: 2026-07-18

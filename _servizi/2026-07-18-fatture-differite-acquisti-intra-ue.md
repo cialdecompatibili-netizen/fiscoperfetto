@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Fatture differite e acquisti intra-UE: le regole da conoscere"
 date: 2026-07-18

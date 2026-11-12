@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Crypto and NFTs: how to report and tax them"
 date: 2026-07-18

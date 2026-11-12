@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Ordinary, simplified or flat-rate bookkeeping: which one to choose"
 date: 2026-07-15

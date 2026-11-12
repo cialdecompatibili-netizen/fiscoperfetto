@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Enrolling in the special section of the Business Register for innovative startups"
 date: 2026-07-18

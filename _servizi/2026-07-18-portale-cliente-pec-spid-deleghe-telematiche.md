@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "PEC, SPID, Firma Digitale e deleghe telematiche: l'identità digitale per la tua attività"
 date: 2026-07-18

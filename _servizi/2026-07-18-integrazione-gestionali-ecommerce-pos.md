@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Integrazione fatturazione con gestionali, e-commerce e POS"
 date: 2026-07-18

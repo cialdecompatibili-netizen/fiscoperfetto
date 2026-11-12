@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Trasformazioni, fusioni e scissioni societarie: come funzionano"
 date: 2026-07-18

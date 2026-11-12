@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Gestione di infortuni e malattia dei dipendenti"
 date: 2026-07-18

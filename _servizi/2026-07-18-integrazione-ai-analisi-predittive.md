@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Integrazione AI per analisi predittive nello studio"
 date: 2026-07-18

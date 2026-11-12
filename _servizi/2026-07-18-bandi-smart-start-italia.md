@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Accesso ai bandi Smart & Start Italia: come funziona"
 description: "Come accedere ai bandi Smart & Start Italia per finanziare la startup."

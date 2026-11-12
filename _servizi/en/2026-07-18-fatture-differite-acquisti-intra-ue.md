@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Deferred invoices and intra-EU purchases: the rules to know"
 date: 2026-07-18

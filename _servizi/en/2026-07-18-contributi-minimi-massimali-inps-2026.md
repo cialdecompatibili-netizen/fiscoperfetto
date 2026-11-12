@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "INPS minimum and maximum contributions 2026: how they work"
 date: 2026-07-18

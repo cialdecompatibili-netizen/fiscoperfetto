@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "AI integration for predictive analysis in the firm"
 date: 2026-07-18

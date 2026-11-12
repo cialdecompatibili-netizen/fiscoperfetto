@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "INPS registration for traders and craftspeople: how it works"
 date: 2026-07-15

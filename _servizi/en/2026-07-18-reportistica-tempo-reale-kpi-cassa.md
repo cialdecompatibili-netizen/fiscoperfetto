@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Real-time reporting: KPIs and cash flows"
 date: 2026-07-18

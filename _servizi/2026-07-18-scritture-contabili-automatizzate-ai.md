@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Scritture contabili automatizzate con l'intelligenza artificiale"
 date: 2026-07-18

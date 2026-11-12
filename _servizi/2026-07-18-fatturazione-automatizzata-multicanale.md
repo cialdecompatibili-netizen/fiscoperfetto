@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Fatturazione automatizzata multi-canale per l'e-commerce"
 date: 2026-07-18

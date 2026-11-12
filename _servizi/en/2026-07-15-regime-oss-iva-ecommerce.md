@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "The VAT OSS scheme for e-commerce: how it works"
 date: 2026-07-15

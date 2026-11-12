@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Mobile app for managing expenses and receipts"
 date: 2026-07-18

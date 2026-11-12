@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Registri IVA, corrispettivi e cespiti ammortizzabili"
 date: 2026-07-18

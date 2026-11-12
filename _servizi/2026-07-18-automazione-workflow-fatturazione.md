@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Automazione del workflow di fatturazione: come funziona"
 date: 2026-07-18

@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Accounting entries automated with artificial intelligence"
 date: 2026-07-18

@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Flat-rate regime 2026: requirements and thresholds to check before opening a VAT number"
 date: 2026-07-18

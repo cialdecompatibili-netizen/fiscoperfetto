@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "INPS, INAIL e DURC: gli adempimenti previdenziali che ogni professionista deve conoscere"
 date: 2026-07-18

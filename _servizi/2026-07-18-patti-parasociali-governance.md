@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Patti parasociali e governance: perché sono importanti"
 date: 2026-07-18

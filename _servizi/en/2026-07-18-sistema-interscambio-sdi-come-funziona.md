@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "The Sistema di Interscambio (SdI): how it works in detail"
 date: 2026-07-18

@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Shareholder agreements and governance: why they matter"
 date: 2026-07-18

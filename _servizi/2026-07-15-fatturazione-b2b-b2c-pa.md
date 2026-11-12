@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Fatturazione elettronica B2B, B2C e verso la PA: le differenze"
 date: 2026-07-15

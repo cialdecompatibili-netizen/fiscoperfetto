@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Assistenza ICE: contributi fino al 30% per l'internazionalizzazione"
 date: 2026-07-18

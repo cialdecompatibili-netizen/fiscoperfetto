@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Integrating invoicing with management software, e-commerce and POS"
 date: 2026-07-18

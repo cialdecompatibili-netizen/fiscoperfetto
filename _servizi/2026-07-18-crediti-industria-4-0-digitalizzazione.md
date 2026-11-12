@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Crediti Industria 4.0 e digitalizzazione: come funzionano"
 date: 2026-07-18

@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Portale cliente: gestire documenti e scadenze online"
 date: 2026-07-15

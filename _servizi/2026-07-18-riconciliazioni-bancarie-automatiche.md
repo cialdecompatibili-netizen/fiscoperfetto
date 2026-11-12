@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Riconciliazioni bancarie automatiche: come funzionano"
 date: 2026-07-18

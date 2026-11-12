@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Iscrizione al Registro Imprese e SCIA: quando servono e come funzionano"
 date: 2026-07-18

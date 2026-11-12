@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Automated multi-channel invoicing for e-commerce"
 date: 2026-07-18

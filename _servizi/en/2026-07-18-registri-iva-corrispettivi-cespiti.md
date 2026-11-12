@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "VAT registers, receipts and depreciable assets"
 date: 2026-07-18

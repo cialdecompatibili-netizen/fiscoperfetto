@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Setting up a company: SRL, SRLS, SNC, SAS or SPA compared"
 date: 2026-07-15

@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Moving from employment to a VAT number: what really changes"
 date: 2026-07-18

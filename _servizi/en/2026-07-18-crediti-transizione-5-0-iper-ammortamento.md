@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Transition 5.0 credits: super-depreciation at 280%"
 date: 2026-07-18

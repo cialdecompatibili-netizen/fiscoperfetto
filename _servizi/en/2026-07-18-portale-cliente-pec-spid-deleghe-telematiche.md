@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "PEC, SPID, Digital Signature and online proxies: the digital identity for your business"
 date: 2026-07-18

@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Closing or suspending a VAT number: differences and procedures"
 date: 2026-07-18
