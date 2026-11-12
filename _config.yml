@@ -26,10 +26,10 @@ languages: [it, en]
 # NOME SITO (menu in alto, footer, SEO): AUTOMATICO, calcolato da _includes/site-name.html.
 #   dominio personalizzato (CNAME su GitHub Pages) > nome del repo. Qui NON si scrive.
 # ECCEZIONE: masthead_title = nome mostrato in alto a sinistra (una riga). Se lo togli torna il nome automatico (nome del repo).
-masthead_title: "Studio Commerciale Calvi"
+masthead_title: "Fisco Perfetto"
 # description: testo SEO di default (meta description).
 # "brand" non e' piu' letto da nessuno: lasciato vuoto solo per compatibilita' con vecchi cloni/admin.
-brand: "Studio Commerciale Calvi"
+brand: "Fisco Perfetto"
 related_posts: 3
 # per_page = elementi per pagina in TUTTE le liste (admin e sito: blog, negozio, pagina categoria). Si cambia da admin > Impostazioni.
 # Il sito impagina con assets/js/paginazione.js (attributo data-per). Valori dell'admin: 10, 20, 50, 100, 200, 500.
