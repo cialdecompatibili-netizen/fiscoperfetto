@@ -1,7 +1,7 @@
 /* GUIDA-SVILUPPO: classi .gc-* = kit dei blocchi della home (_data/blocks_home.json e en). Per cambiare l'accento: SOLO --gc-acc (e --gc-acc-s) qui sotto; i colori del sito intero stanno in _data/tema.json. Nome file storico: non rinominare. Stili nuovi dei blocchi vanno qui, non dentro il campo html dei blocchi (altrimenti cambia il corpo della pagina e le traduzioni diventano da_aggiornare). */
 /* KIT BLOCCHI HOME (prefisso .gc-). Nome file storico (nome ereditato dal template di origine): NON rinominare, e' caricato da _includes/head/custom.html.
    Usato dai blocchi di _data/blocks_home.json. Colori nelle variabili --gc-* qui sotto: per cambiare accento basta --gc-acc. */
-:root{--gc-ink:#0e1116;--gc-mut:#56606b;--gc-acc:#1e3a5f;--gc-acc-s:#edeff2;--gc-soft:#f5f6fa;--gc-line:#e6e8ee;--gc-head:'Space Grotesk','Inter',system-ui,sans-serif;--gc-sans:'Inter',system-ui,sans-serif}
+:root{--gc-ink:#0b1b16;--gc-mut:#546560;--gc-acc:#0f9d73;--gc-acc-s:#e6f4ee;--gc-soft:#f2f8f5;--gc-line:#dfeae5;--gc-head:'Space Grotesk','Inter',system-ui,sans-serif;--gc-sans:'Inter',system-ui,sans-serif}
 .gc{font-family:var(--gc-sans);color:var(--gc-ink)}
 .gc *{box-sizing:border-box}
 .gc-wrap{max-width:1180px;margin:0 auto;padding:0 1.5rem}

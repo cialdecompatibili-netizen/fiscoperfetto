@@ -16,7 +16,7 @@ main:
     url: /blog/
   - title: "Shop"
     url: /negozio/
-  - title: "Lo studio"
+  - title: "Chi siamo"
     url: /chi-siamo/
   - title: "Contatti"
     url: /contatti/

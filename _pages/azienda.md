@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Lo studio"
+title: "Chi siamo"
 permalink: /chi-siamo/
 ref: azienda
 author_profile: false

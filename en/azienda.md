@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The firm"
+title: "About us"
 description: "Fisco Perfetto: online tax advice for freelancers and sole proprietors. Taxes, invoices and the flat-rate regime explained simply, no accountant needed."
 author_profile: false
 classes: wide
