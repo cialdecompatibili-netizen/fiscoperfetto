@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single
 title: "Startup innovativa: requisiti, iscrizione e agevolazioni"
 header:
