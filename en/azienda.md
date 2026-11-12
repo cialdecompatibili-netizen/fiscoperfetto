@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "The firm"
-description: "Studio Calvi accounting firm: over 15 years of experience supporting businesses, professionals and startups with tax, accounting and corporate advice."
+description: "Fisco Perfetto: online tax advice for freelancers and sole proprietors. Taxes, invoices and the flat-rate regime explained simply, no accountant needed."
 author_profile: false
 classes: wide
 ref: azienda

@@ -5,7 +5,7 @@ permalink: /chi-siamo/
 ref: azienda
 author_profile: false
 classes: wide
-seo_description: "Lo studio commerciale Calvi: oltre 15 anni di esperienza al fianco di imprese, professionisti e startup in consulenza fiscale, contabile e societaria."
+seo_description: "Fisco Perfetto: consulenza fiscale online per freelance e partite IVA. Tasse, fatture e regime forfettario spiegati in modo semplice, senza commercialista."
 ---
 
 <style>/* azienda-fullw: pagina a tutta larghezza, senza titolo duplicato */.wide #page-title{display:none!important}</style>
