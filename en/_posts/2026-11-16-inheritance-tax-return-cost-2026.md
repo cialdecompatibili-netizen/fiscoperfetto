@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Inheritance tax return in Italy: what it really costs in 2026"
-date: 2026-11-16
+date: 2026-11-16 09:18:00 +0100
 permalink: /en/blog/tax-returns/inheritance-tax-return-cost-2026/
 excerpt: "Fixed costs, the CAF or accountant fee, tax and allowances, and the penalties if you pass the 12-month deadline."
 seo_description: "What an Italian inheritance tax return (dichiarazione di successione) costs in 2026: fixed costs, CAF or accountant fee, tax, 1 million allowance and penalties."

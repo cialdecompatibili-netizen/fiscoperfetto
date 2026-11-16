@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Stipendio e pensione pignorati dal Fisco: quanto possono trattenere"
-date: 2026-11-16
+date: 2026-11-16 09:08:00 +0100
 permalink: /blog/dichiarazioni-fiscali/stipendio-pensione-pignorati-quanto-possono-trattenere/
 excerpt: "I limiti di pignoramento per i debiti con l'Agenzia delle entrate-Riscossione: un decimo, un settimo, un quinto, e il minimo vitale per la pensione."
 seo_description: "Pignoramento stipendio e pensione per cartelle fiscali: un decimo fino a 2.500 euro, un settimo fino a 5.000, un quinto oltre; minimo vitale della pensione e conto corrente."

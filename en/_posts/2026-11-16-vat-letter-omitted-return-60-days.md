@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "VAT letter for an omitted return: 60 days to respond"
-date: 2026-11-16
+date: 2026-11-16 09:11:00 +0100
 permalink: /en/blog/tax-returns/vat-letter-omitted-return-60-days/
 excerpt: "From 2026 the Agency reconstructs VAT from data it already holds and sends a letter. What it means, what to check and how to act within 60 days."
 seo_description: "Omitted VAT return 2026 in Italy: automated assessment by the Revenue Agency, first 1,400 letters, 60 days to pay or flag errors, reduced penalties."

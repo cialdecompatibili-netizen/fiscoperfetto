@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Salary and pension garnished by the tax authority: how much can they take"
-date: 2026-11-16
+date: 2026-11-16 09:08:00 +0100
 permalink: /en/blog/tax-returns/salary-pension-garnishment-how-much/
 excerpt: "Garnishment limits for debts with the Italian collection agency: one tenth, one seventh, one fifth, and the pension's vital minimum."
 seo_description: "Salary and pension garnishment for tax debts in Italy: one tenth up to 2,500 euro, one seventh up to 5,000, one fifth above; pension vital minimum and bank accounts."

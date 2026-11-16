@@ -3,7 +3,7 @@ layout: single
 title: "Second tax instalment due 30 November 2026: how much to pay and how to reduce it"
 header:
   teaser: "/assets/images/posts/secondo-acconto-30-novembre-2026.jpg"
-date: 2026-11-05
+date: 2026-11-05 09:03:00 +0100
 permalink: /en/blog/tax-returns/second-acconto-30-november-2026/
 excerpt: "The second advance payment (acconto) of income taxes and contributions is due on 30 November 2026. How it is calculated with the historical method, when the forecast method helps with the 33% IRPEF rate, and which F24 codes to use."
 seo_description: "Second acconto 30 November 2026 in Italy: deadline, 60% or 50% split, historical and forecast method with the 33% IRPEF rate, flat-rate taxpayers (code 1791), F24 and late payment."

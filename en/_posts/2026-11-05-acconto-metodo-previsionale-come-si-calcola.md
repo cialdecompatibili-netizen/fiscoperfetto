@@ -3,7 +3,7 @@ layout: single
 title: "Forecast method for the tax advance (acconto): how to calculate it, with examples (2026)"
 header:
   teaser: "/assets/images/posts/acconto-metodo-previsionale.jpg"
-date: 2026-11-05
+date: 2026-11-05 09:00:00 +0100
 permalink: /en/blog/tax-returns/forecast-method-acconto-how-to-calculate/
 excerpt: "The forecast method calculates your tax advance on the tax you expect to owe for 2026 instead of 2025. Step-by-step formula, two worked examples, risks and penalties."
 seo_description: "Italian acconto forecast method 2026: step-by-step calculation, examples for ordinary and flat-rate taxpayers, IRPEF rates 23-33-43%, 25% penalty risk and ravvedimento."

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Lettera IVA per dichiarazione omessa: 60 giorni per rispondere"
-date: 2026-11-16
+date: 2026-11-16 09:11:00 +0100
 permalink: /blog/dichiarazioni-fiscali/lettera-iva-dichiarazione-omessa-60-giorni/
 excerpt: "Dal 2026 l'Agenzia ricostruisce l'IVA dai dati che già ha e manda la lettera. Cosa significa, cosa controllare e come muoversi entro 60 giorni."
 seo_description: "IVA dichiarazione omessa 2026: liquidazione automatizzata dell'Agenzia delle Entrate, prime 1.400 lettere, 60 giorni per pagare o segnalare errori, sanzioni ridotte."

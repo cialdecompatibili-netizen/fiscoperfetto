@@ -3,7 +3,7 @@ layout: single
 title: "Come aprire la partita IVA: guida passo passo"
 header:
   teaser: "/assets/images/posts/come-aprire-la-partita-iva.jpg"
-date: 2026-10-27
+date: 2026-10-27 09:00:00 +0100
 permalink: /blog/guide/come-aprire-la-partita-iva/
 excerpt: "Dalla scelta dell'attività al codice ATECO, dal regime forfettario all'invio della pratica: tutti i passi per aprire la partita IVA senza errori e cosa fare subito dopo."
 seo_description: "Come aprire la partita IVA nel 2026: libero professionista o ditta individuale, codice ATECO, regime forfettario, modello AA9/12 e ComUnica, costi e primi adempimenti."

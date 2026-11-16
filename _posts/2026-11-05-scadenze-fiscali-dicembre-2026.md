@@ -3,7 +3,7 @@ layout: single
 title: "Scadenze fiscali dicembre 2026 per partite IVA e forfettari: il calendario"
 header:
   teaser: "/assets/images/posts/scadenze-fiscali-dicembre-2026.jpg"
-date: 2026-11-05
+date: 2026-11-05 09:02:00 +0100
 permalink: /blog/guide/scadenze-fiscali-dicembre-2026/
 excerpt: "Le date di dicembre 2026 per partite IVA e forfettari: il 16 (IVA di novembre, ritenute, saldo IMU), il 28 (acconto IVA) e cosa controllare entro il 31 dicembre."
 seo_description: "Scadenze fiscali dicembre 2026 per partite IVA e forfettari: 16 dicembre (IVA, ritenute, IMU), 28 dicembre (acconto IVA, codici 6013 e 6035), cosa fare entro fine anno."

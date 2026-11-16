@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Accountant for the flat-rate regime: what it costs and what you must file"
-date: 2026-11-16
+date: 2026-11-16 09:15:00 +0100
 permalink: /en/blog/tax-returns/flat-rate-regime-accountant-cost-what-to-file/
 excerpt: "Average costs, what the fee includes, how the tax is calculated and the 85,000 and 100,000 euro thresholds: what every flat-rate taxpayer should know."
 seo_description: "Accountant for Italy's flat-rate regime (forfettario) 2026: what it costs, what to file, the 5% and 15% rates and the revenue thresholds."

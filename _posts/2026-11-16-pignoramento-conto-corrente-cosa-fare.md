@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Pignoramento del conto corrente da parte del Fisco: cosa fare subito"
-date: 2026-11-16
+date: 2026-11-16 09:07:00 +0100
 permalink: /blog/dichiarazioni-fiscali/pignoramento-conto-corrente-cosa-fare/
 excerpt: "Come funziona il pignoramento del conto da parte dell'Agenzia delle entrate-Riscossione, cosa puoi fare, cosa è protetto e gli errori da non commettere."
 seo_description: "Pignoramento conto corrente Agenzia delle entrate-Riscossione: come funziona senza giudice, cosa fare subito, rateizzazione, opposizione e somme protette."

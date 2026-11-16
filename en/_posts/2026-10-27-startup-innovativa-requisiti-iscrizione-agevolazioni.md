@@ -4,7 +4,7 @@ layout: single
 title: "Innovative startups: requirements, registration and incentives"
 header:
   teaser: "/assets/images/posts/startup-innovativa-requisiti-iscrizione-agevolazioni.jpg"
-date: 2026-10-27
+date: 2026-10-27 09:01:00 +0100
 permalink: /en/blog/startups-innovative-smes/innovative-startup-requirements-registration-incentives/
 excerpt: "What an innovative startup is, which requirements apply, how the company is registered in the Business Register and how long the status lasts: a practical guide for anyone starting a technology project."
 seo_description: "Innovative startups in 2026: legal requirements, innovation criteria, registration in the special section of the Business Register, duration of the status and incentives."

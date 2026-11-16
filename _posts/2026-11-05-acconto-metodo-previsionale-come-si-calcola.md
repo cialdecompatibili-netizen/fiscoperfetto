@@ -3,7 +3,7 @@ layout: single
 title: "Acconto con metodo previsionale: come si calcola, con esempio (2026)"
 header:
   teaser: "/assets/images/posts/acconto-metodo-previsionale.jpg"
-date: 2026-11-05
+date: 2026-11-05 09:00:00 +0100
 permalink: /blog/dichiarazioni-fiscali/acconto-metodo-previsionale-come-si-calcola/
 excerpt: "Il metodo previsionale calcola l'acconto sull'imposta stimata del 2026 invece che su quella del 2025. Formula passo passo, due esempi con i numeri, rischi e sanzioni."
 seo_description: "Acconto metodo previsionale 2026: come si calcola passo passo, esempio per ordinari e forfettari, aliquote IRPEF 23-33-43%, rischio sanzione 25% e ravvedimento."

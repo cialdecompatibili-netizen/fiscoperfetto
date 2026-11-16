@@ -3,7 +3,7 @@ layout: single
 title: "Italian tax deadlines in December 2026 for VAT-registered and flat-rate taxpayers: the calendar"
 header:
   teaser: "/assets/images/posts/scadenze-fiscali-dicembre-2026.jpg"
-date: 2026-11-05
+date: 2026-11-05 09:02:00 +0100
 permalink: /en/blog/guides/fiscal-deadlines-december-2026/
 excerpt: "The December 2026 dates for VAT-registered and flat-rate taxpayers: 16 December (November VAT, withholdings, IMU balance), 28 December (VAT advance) and what to check by 31 December."
 seo_description: "Italian tax deadlines December 2026: 16 December (VAT, withholdings, IMU), 28 December (VAT advance, codes 6013 and 6035), flat-rate regime and a year-end checklist."

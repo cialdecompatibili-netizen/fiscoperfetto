@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Vehicle administrative hold in Italy: how to avoid it and how to remove it"
-date: 2026-11-16
+date: 2026-11-16 09:09:00 +0100
 permalink: /en/blog/tax-returns/vehicle-administrative-hold-how-to-remove/
 excerpt: "30-day warning, instalments that suspend the hold, cancellation at the vehicle registry (PRA) and cases where it cannot be registered."
 seo_description: "Administrative hold on a car from Agenzia delle entrate-Riscossione: 30-day warning, suspension with the first instalment, cancellation at PRA, business vehicles and disabled persons."

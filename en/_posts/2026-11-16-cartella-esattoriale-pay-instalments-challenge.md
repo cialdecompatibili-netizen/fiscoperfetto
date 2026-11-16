@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Tax bill (cartella esattoriale): 60 days to decide. Pay, instalments or challenge"
-date: 2026-11-16
+date: 2026-11-16 09:02:00 +0100
 permalink: /en/blog/tax-returns/cartella-esattoriale-pay-instalments-challenge/
 excerpt: "Received a bill from the Italian collection agency? What to check, what you can do in 60 days and how instalment plans work today."
 seo_description: "Italian cartella esattoriale: 60 days from notification, up to 84 instalments without documents (debts up to 120,000 euro) or 120 documented, forfeiture after eight unpaid instalments, suspension and appeal."

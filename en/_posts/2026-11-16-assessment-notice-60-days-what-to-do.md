@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Tax assessment notice: the 60 days to decide and the routes available"
-date: 2026-11-16
+date: 2026-11-16 09:12:00 +0100
 permalink: /en/blog/tax-returns/assessment-notice-60-days-what-to-do/
 excerpt: "Appeal, accertamento con adesione (settlement), payment or instalments: what you can do after notification and why the 60 days matter."
 seo_description: "Italian tax assessment notice: 60 days to appeal, settlement procedure that suspends the deadline by 90 days, August suspension, effects after the deadline."

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Forgot to declare income? Ravvedimento, late return or amended return"
-date: 2026-11-16
+date: 2026-11-16 09:04:00 +0100
 permalink: /en/blog/tax-returns/undeclared-income-ravvedimento-amended-return/
 excerpt: "Return not filed or filed with errors? The 90-day rule, the difference between a late and an amended return, and why to fix things before a letter arrives."
 seo_description: "Omitted or wrong Italian tax return: within 90 days of the deadline it is late but can be regularised with reduced penalties, beyond that it is omitted. Late vs amended return vs ravvedimento operoso."

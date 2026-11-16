@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Quanto costa la dichiarazione dei redditi nel 2026: CAF, commercialista o fai da te"
-date: 2026-11-16
+date: 2026-11-16 09:14:00 +0100
 permalink: /blog/dichiarazioni-fiscali/costo-dichiarazione-redditi-2026-caf-commercialista/
 excerpt: "730 o Redditi PF: quanto si paga davvero in CAF e dal commercialista, cosa è gratis con la precompilata e quando conviene farsi aiutare."
 seo_description: "Quanto costa la dichiarazione dei redditi 2026: tariffe medie di CAF e commercialista per 730 e Redditi PF e quando conviene farsi aiutare."

@@ -3,7 +3,7 @@ layout: single
 title: "Secondo acconto 30 novembre 2026: quanto pagare e come ridurlo"
 header:
   teaser: "/assets/images/posts/secondo-acconto-30-novembre-2026.jpg"
-date: 2026-11-05
+date: 2026-11-05 09:03:00 +0100
 permalink: /blog/dichiarazioni-fiscali/secondo-acconto-30-novembre-2026/
 excerpt: "Il 30 novembre 2026 scade il secondo acconto di imposte e contributi. Come si calcola con il metodo storico, quando conviene il previsionale con l'IRPEF al 33% e quali codici usare nell'F24."
 seo_description: "Secondo acconto 30 novembre 2026: scadenza, percentuali 60% o 50%, metodo storico e previsionale con IRPEF al 33%, forfettari (codice 1791), F24 e ravvedimento."

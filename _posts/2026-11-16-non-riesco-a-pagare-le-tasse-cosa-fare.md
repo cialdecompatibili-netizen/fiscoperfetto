@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Non riesco a pagare le tasse: tutte le opzioni, in ordine"
-date: 2026-11-16
+date: 2026-11-16 09:13:00 +0100
 permalink: /blog/dichiarazioni-fiscali/non-riesco-a-pagare-le-tasse-cosa-fare/
 excerpt: "Rate sull'avviso bonario e sulla cartella, rottamazioni, ravvedimento: la mappa per muoverti senza panico quando non hai la liquidità."
 seo_description: "Non riesco a pagare le tasse: rateizzazione dell'avviso bonario (20 rate trimestrali), delle cartelle (84 o 120 rate), rottamazione quinquies, ravvedimento e cosa evitare."

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Rottamazione-quinquies: rata del 30 novembre 2026, tolleranza e decadenza"
-date: 2026-11-16
+date: 2026-11-16 09:00:00 +0100
 permalink: /blog/dichiarazioni-fiscali/rottamazione-quinquies-30-novembre-2026/
 excerpt: "Il 30 novembre 2026 scade la terza rata della rottamazione-quinquies, senza tolleranza di cinque giorni. Cosa si paga, come si paga e quando si perde la definizione agevolata."
 seo_description: "Rottamazione-quinquies 30 novembre 2026: terza rata, nessuna tolleranza di 5 giorni, decadenza con due rate non pagate, differenze con la quater e come pagare con AdER."

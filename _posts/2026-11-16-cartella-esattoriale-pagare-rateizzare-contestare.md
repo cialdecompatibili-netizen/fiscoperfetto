@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Cartella esattoriale: 60 giorni per decidere. Pagare, rateizzare o contestare"
-date: 2026-11-16
+date: 2026-11-16 09:02:00 +0100
 permalink: /blog/dichiarazioni-fiscali/cartella-esattoriale-pagare-rateizzare-contestare/
 excerpt: "Hai ricevuto una cartella dell'Agenzia delle entrate-Riscossione? Cosa controllare, cosa puoi fare nei 60 giorni e come funziona oggi la rateizzazione."
 seo_description: "Cartella esattoriale: 60 giorni dalla notifica, rateizzazione fino a 84 rate senza documenti (fino a 120.000 euro) o 120 rate documentate, decadenza con otto rate non pagate, sospensione e ricorso."

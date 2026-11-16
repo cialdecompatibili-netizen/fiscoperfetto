@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Tax authority seizing your bank account: what to do right away"
-date: 2026-11-16
+date: 2026-11-16 09:07:00 +0100
 permalink: /en/blog/tax-returns/bank-account-seizure-what-to-do/
 excerpt: "How seizure of your account by the Italian collection agency works, what you can do, what is protected and the mistakes to avoid."
 seo_description: "Bank account seizure by Agenzia delle entrate-Riscossione: how it works without a judge, what to do at once, instalments, opposition and protected sums."

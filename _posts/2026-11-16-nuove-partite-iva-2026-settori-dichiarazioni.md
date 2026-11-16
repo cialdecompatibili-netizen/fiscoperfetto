@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Nuove partite IVA nel 2026: i settori che crescono e quanto pesa il coefficiente"
-date: 2026-11-16
+date: 2026-11-16 09:17:00 +0100
 permalink: /blog/dichiarazioni-fiscali/nuove-partite-iva-2026-settori-dichiarazioni/
 excerpt: "Professioni, commercio, edilizia, sanità: dove nascono più partite IVA e quanto cambia l'imposta nel forfettario a parità di fatturato."
 seo_description: "Nuove partite IVA 2026 per settore (dati MEF) e confronto dell'imposta nel forfettario: professioni, commercio, costruzioni a parità di fatturato."

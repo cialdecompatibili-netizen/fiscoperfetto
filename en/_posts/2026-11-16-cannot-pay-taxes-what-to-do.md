@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "I cannot pay my taxes: all the options, in order"
-date: 2026-11-16
+date: 2026-11-16 09:13:00 +0100
 permalink: /en/blog/tax-returns/cannot-pay-taxes-what-to-do/
 excerpt: "Instalments on notices and tax bills, rottamazione schemes, ravvedimento: the map to move without panic when you lack the cash."
 seo_description: "Cannot pay taxes in Italy: instalments on courtesy notices (20 quarterly), tax bills (84 or 120), rottamazione-quinquies, ravvedimento and what to avoid."

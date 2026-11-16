@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Commercialista per il forfettario: quanto costa e cosa devi dichiarare"
-date: 2026-11-16
+date: 2026-11-16 09:15:00 +0100
 permalink: /blog/dichiarazioni-fiscali/commercialista-forfettario-quanto-costa-cosa-dichiarare/
 excerpt: "Costi medi, cosa include il canone, come si calcola l'imposta e le soglie degli 85.000 e 100.000 euro: tutto ciò che un forfettario deve sapere."
 seo_description: "Commercialista per il regime forfettario 2026: quanto costa, cosa deve dichiarare chi ha la partita IVA forfettaria, aliquote 5% e 15% e soglie."

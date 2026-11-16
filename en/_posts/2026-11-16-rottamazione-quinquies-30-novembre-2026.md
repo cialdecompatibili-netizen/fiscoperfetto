@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Rottamazione-quinquies: instalment due 30 November 2026, grace period and forfeiture"
-date: 2026-11-16
+date: 2026-11-16 09:00:00 +0100
 permalink: /en/blog/tax-returns/rottamazione-quinquies-30-november-2026/
 excerpt: "The third instalment of the rottamazione-quinquies falls due on 30 November 2026, with no five-day grace period. What you pay, how to pay and when you lose the settlement."
 seo_description: "Rottamazione-quinquies 30 November 2026 in Italy: third instalment, no 5-day grace period, forfeiture after two unpaid instalments, differences from the quater and how to pay AdER."

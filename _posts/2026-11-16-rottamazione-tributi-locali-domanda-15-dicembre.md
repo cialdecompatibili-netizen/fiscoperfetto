@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Rottamazione IMU, TARI e multe: domanda entro il 15 dicembre 2026"
-date: 2026-11-16
+date: 2026-11-16 09:10:00 +0100
 permalink: /blog/dichiarazioni-fiscali/rottamazione-tributi-locali-domanda-15-dicembre/
 excerpt: "Chi può aderire, come verificare se il tuo Comune c'è, cosa si paga, quando e in quante rate. Una scadenza vicina da non perdere."
 seo_description: "Rottamazione-quinquies tributi locali: domanda dal 16 ottobre al 15 dicembre 2026, IMU TARI e multe, 54 rate bimestrali, importi comunicati entro il 28 febbraio 2027."

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Dichiarazione di successione: quanto costa davvero nel 2026"
-date: 2026-11-16
+date: 2026-11-16 09:18:00 +0100
 permalink: /blog/dichiarazioni-fiscali/dichiarazione-successione-quanto-costa-2026/
 excerpt: "Costi fissi, parcella del CAF o del commercialista, imposta e franchigie, e le sanzioni se si supera il termine dei 12 mesi."
 seo_description: "Quanto costa la dichiarazione di successione nel 2026: costi fissi, parcella di CAF o commercialista, imposta, franchigia di 1 milione e sanzioni."

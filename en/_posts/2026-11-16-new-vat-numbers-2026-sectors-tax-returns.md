@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "New VAT numbers in 2026: growing sectors and how much the coefficient matters"
-date: 2026-11-16
+date: 2026-11-16 09:17:00 +0100
 permalink: /en/blog/tax-returns/new-vat-numbers-2026-sectors-tax-returns/
 excerpt: "Professions, retail, construction, healthcare: where most new VAT numbers start and how the flat-rate tax changes for the same revenue."
 seo_description: "New Italian VAT numbers 2026 by sector (MEF data) and a flat-rate tax comparison: professions, retail and construction at the same revenue."

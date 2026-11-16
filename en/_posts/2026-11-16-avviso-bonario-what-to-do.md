@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Italian tax authority courtesy notice (avviso bonario): what to do and by when"
-date: 2026-11-16
+date: 2026-11-16 09:01:00 +0100
 permalink: /en/blog/tax-returns/avviso-bonario-what-to-do/
 excerpt: "Got an avviso bonario? What it means, how many days you have to pay with the reduced penalty, how to pay in instalments and when to get help."
 seo_description: "Avviso bonario from the Italian Revenue Agency: 60 days to pay or clarify (notices from 2025), penalty reduced to one third, up to 20 quarterly instalments and what to check before paying."

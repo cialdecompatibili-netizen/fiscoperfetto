@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Form 730 or Redditi PF: which return to file and when the 730 is not enough"
-date: 2026-11-16
+date: 2026-11-16 09:16:00 +0100
 permalink: /en/blog/tax-returns/form-730-or-redditi-pf-which-to-file/
 excerpt: "Who uses the 730, who must move to Redditi PF and what to do if you missed the 2026 deadlines."
 seo_description: "Italian Form 730 or Redditi PF: which return to file, when the 730 is not enough (VAT number, foreign income, capital gains) and what to do if you missed the deadline."

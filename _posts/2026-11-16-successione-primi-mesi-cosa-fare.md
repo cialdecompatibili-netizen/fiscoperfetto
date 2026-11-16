@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Successione: cosa fare nei primi mesi dopo un lutto, passo per passo"
-date: 2026-11-16
+date: 2026-11-16 09:03:00 +0100
 permalink: /blog/dichiarazioni-fiscali/successione-primi-mesi-cosa-fare/
 excerpt: "Dopo la scomparsa di un familiare ci sono scadenze fiscali da conoscere. Dichiarazione di successione entro 12 mesi, documenti, imposte e franchigie, in parole semplici."
 seo_description: "Dichiarazione di successione: 12 mesi dal decesso, documenti da raccogliere, imposta del 4% oltre 1 milione per coniuge e figli, 6% per i fratelli oltre 100.000 euro, sanzioni per ritardo."

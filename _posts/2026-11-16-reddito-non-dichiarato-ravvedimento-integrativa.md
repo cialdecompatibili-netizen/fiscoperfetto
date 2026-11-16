@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Hai dimenticato di dichiarare un reddito? Ravvedimento, dichiarazione tardiva o integrativa"
-date: 2026-11-16
+date: 2026-11-16 09:04:00 +0100
 permalink: /blog/dichiarazioni-fiscali/reddito-non-dichiarato-ravvedimento-integrativa/
 excerpt: "Dichiarazione non inviata o con errori? La regola dei 90 giorni, la differenza tra dichiarazione tardiva e integrativa e quando conviene sistemare prima che arrivi una lettera."
 seo_description: "Dichiarazione dei redditi omessa o sbagliata: entro 90 giorni dalla scadenza è tardiva e ravvedibile, oltre è omessa. Differenza tra tardiva, integrativa e ravvedimento operoso."

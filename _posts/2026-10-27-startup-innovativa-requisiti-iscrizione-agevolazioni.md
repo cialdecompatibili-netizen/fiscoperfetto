@@ -4,7 +4,7 @@ layout: single
 title: "Startup innovativa: requisiti, iscrizione e agevolazioni"
 header:
   teaser: "/assets/images/posts/startup-innovativa-requisiti-iscrizione-agevolazioni.jpg"
-date: 2026-10-27
+date: 2026-10-27 09:01:00 +0100
 permalink: /blog/startup-pmi-innovative/startup-innovativa-requisiti-iscrizione-agevolazioni/
 excerpt: "Cos'è una startup innovativa, quali requisiti servono, come si iscrive la società al Registro delle Imprese e quanto dura lo status: la guida pratica per chi parte con un progetto tecnologico."
 seo_description: "Startup innovativa nel 2026: requisiti di legge, criteri di innovazione, iscrizione alla sezione speciale del Registro delle Imprese, durata dello status e agevolazioni."

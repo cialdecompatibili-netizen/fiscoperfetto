@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Avviso di accertamento: i 60 giorni per decidere e le strade possibili"
-date: 2026-11-16
+date: 2026-11-16 09:12:00 +0100
 permalink: /blog/dichiarazioni-fiscali/avviso-di-accertamento-60-giorni-cosa-fare/
 excerpt: "Ricorso, accertamento con adesione, pagamento o rateizzazione: cosa puoi fare dopo la notifica e perché i 60 giorni sono decisivi."
 seo_description: "Avviso di accertamento Agenzia delle Entrate: 60 giorni per il ricorso, accertamento con adesione che sospende 90 giorni, sospensione feriale, effetti dopo la scadenza."

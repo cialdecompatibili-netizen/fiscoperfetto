@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Wrong 730 return? What to do now that the October and November deadlines have passed"
-date: 2026-11-16
+date: 2026-11-16 09:05:00 +0100
 permalink: /en/blog/tax-returns/wrong-730-what-to-do-now/
 excerpt: "Sent your 730 with a mistake? The dates for the supplementary 730 (26 October) and the corrective Redditi form (2 November) have passed: what is left and how to fix it."
 seo_description: "Italian 730 with errors after 2 November 2026: the supplementary 730 (26 October) and the corrective Redditi form (2 November) have expired, the amended Redditi form remains. How to proceed."

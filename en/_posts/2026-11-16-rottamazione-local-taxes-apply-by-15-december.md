@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Rottamazione for local taxes and fines: apply by 15 December 2026"
-date: 2026-11-16
+date: 2026-11-16 09:10:00 +0100
 permalink: /en/blog/tax-returns/rottamazione-local-taxes-apply-by-15-december/
 excerpt: "Who can join, how to check your municipality, what you pay, when and in how many instalments. A close deadline not to miss."
 seo_description: "Rottamazione-quinquies for local taxes in Italy: apply 16 October to 15 December 2026, IMU, TARI and fines, 54 bimonthly instalments, amounts communicated by 28 February 2027."

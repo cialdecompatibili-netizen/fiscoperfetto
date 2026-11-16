@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "How much a tax return costs in Italy in 2026: CAF, accountant or DIY"
-date: 2026-11-16
+date: 2026-11-16 09:14:00 +0100
 permalink: /en/blog/tax-returns/tax-return-cost-2026-caf-accountant/
 excerpt: "Form 730 or Redditi PF: what you really pay at a CAF or an accountant, what is free with the pre-filled return and when help is worth it."
 seo_description: "How much an Italian tax return costs in 2026: average CAF and accountant fees for Form 730 and Redditi PF, and when it is worth getting help."

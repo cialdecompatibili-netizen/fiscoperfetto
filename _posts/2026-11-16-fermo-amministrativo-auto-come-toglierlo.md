@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Fermo amministrativo sull'auto: come evitarlo e come toglierlo"
-date: 2026-11-16
+date: 2026-11-16 09:09:00 +0100
 permalink: /blog/dichiarazioni-fiscali/fermo-amministrativo-auto-come-toglierlo/
 excerpt: "Preavviso di 30 giorni, rateizzazione che sospende il fermo, cancellazione al PRA e casi in cui non può essere iscritto."
 seo_description: "Fermo amministrativo auto Agenzia delle entrate-Riscossione: preavviso di 30 giorni, sospensione con la prima rata, cancellazione al PRA, veicoli strumentali e persone con disabilità."

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Revenue Agency compliance letter: what it is and what to do"
-date: 2026-11-16
+date: 2026-11-16 09:06:00 +0100
 permalink: /en/blog/tax-returns/compliance-letter-what-to-do/
 excerpt: "Not a tax bill or a fine: an invitation to check your data. How to read it, what to verify, how to reply and when ravvedimento makes sense."
 seo_description: "Italian Revenue Agency compliance letter: not an assessment, where to find it in your tax drawer, how to reply and how to regularise with ravvedimento operoso."

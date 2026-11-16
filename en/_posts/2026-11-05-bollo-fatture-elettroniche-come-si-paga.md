@@ -3,7 +3,7 @@ layout: single
 title: "Stamp duty on electronic invoices: when, how much and how to pay (deadline 30 November 2026)"
 header:
   teaser: "/assets/images/posts/bollo-fatture-elettroniche-come-si-paga.jpg"
-date: 2026-11-05
+date: 2026-11-05 09:01:00 +0100
 permalink: /en/blog/e-invoicing/stamp-duty-electronic-invoices-how-to-pay/
 excerpt: "The 2 euro stamp duty on invoices without VAT above 77.47 euro: when it applies, how to flag it on the invoice, the 2026 quarterly deadlines, code 2523 and the 5,000 euro rule."
 seo_description: "Stamp duty on Italian e-invoices 2026: 2 euro above 77.47 euro without VAT, flat-rate taxpayers, 30 November deadline (code 2523), 5,000 euro rule, F24 and late payment."

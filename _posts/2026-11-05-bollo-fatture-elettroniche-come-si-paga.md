@@ -3,7 +3,7 @@ layout: single
 title: "Bollo sulle fatture elettroniche: quando si paga, quanto e come (scadenza 30 novembre 2026)"
 header:
   teaser: "/assets/images/posts/bollo-fatture-elettroniche-come-si-paga.jpg"
-date: 2026-11-05
+date: 2026-11-05 09:01:00 +0100
 permalink: /blog/fatturazione-elettronica/bollo-fatture-elettroniche-come-si-paga/
 excerpt: "Il bollo da 2 euro sulle fatture senza IVA sopra 77,47 euro: quando si applica, come si indica in fattura, le scadenze trimestrali 2026, il codice 2523 e la regola dei 5.000 euro."
 seo_description: "Bollo fatture elettroniche 2026: 2 euro sopra 77,47 euro senza IVA, forfettari, scadenza 30 novembre (codice 2523), regola dei 5.000 euro, F24 e ravvedimento."

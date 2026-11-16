@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Avviso bonario dell'Agenzia delle Entrate: cosa fare e entro quanto"
-date: 2026-11-16
+date: 2026-11-16 09:01:00 +0100
 permalink: /blog/dichiarazioni-fiscali/avviso-bonario-cosa-fare/
 excerpt: "Hai ricevuto un avviso bonario? Cosa significa, entro quanti giorni pagare con la sanzione ridotta, come rateizzare e quando conviene farsi aiutare."
 seo_description: "Avviso bonario Agenzia delle Entrate: 60 giorni per pagare o chiarire (per le comunicazioni dal 2025), sanzione ridotta a un terzo, rateizzazione fino a 20 rate trimestrali e cosa controllare prima di pagare."

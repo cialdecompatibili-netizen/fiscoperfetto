@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Lettera di compliance dell'Agenzia delle Entrate: cos'è e cosa fare"
-date: 2026-11-16
+date: 2026-11-16 09:06:00 +0100
 permalink: /blog/dichiarazioni-fiscali/lettera-compliance-cosa-fare/
 excerpt: "Non è una cartella né una multa: è un invito a controllare i tuoi dati. Come leggerla, cosa verificare, come rispondere e quando conviene il ravvedimento."
 seo_description: "Lettera di compliance Agenzia delle Entrate: non è un accertamento, dove si trova nel Cassetto fiscale, come rispondere e come regolarizzare con il ravvedimento operoso."

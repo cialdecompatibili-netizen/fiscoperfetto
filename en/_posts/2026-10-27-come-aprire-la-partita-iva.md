@@ -3,7 +3,7 @@ layout: single
 title: "How to open a VAT number in Italy: a step-by-step guide"
 header:
   teaser: "/assets/images/posts/come-aprire-la-partita-iva.jpg"
-date: 2026-10-27
+date: 2026-10-27 09:00:00 +0100
 permalink: /en/blog/guides/how-to-open-a-vat-number/
 excerpt: "From choosing your activity to the ATECO code, from the flat-rate regime to filing the paperwork: all the steps to open a VAT number without mistakes and what to do right after."
 seo_description: "How to open a VAT number in Italy in 2026: freelancer or sole proprietorship, ATECO code, flat-rate regime, form AA9/12 and ComUnica, costs and first obligations."

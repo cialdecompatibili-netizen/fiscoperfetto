@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Inheritance in Italy: what to do in the first months after a loss, step by step"
-date: 2026-11-16
+date: 2026-11-16 09:03:00 +0100
 permalink: /en/blog/tax-returns/inheritance-first-months-what-to-do/
 excerpt: "After a family member dies there are tax deadlines to know. Succession return within 12 months, documents, taxes and allowances, in plain words."
 seo_description: "Italian succession return: 12 months from death, documents to gather, 4% tax above 1 million euro for spouse and children, 6% for siblings above 100,000 euro, late-filing penalties."

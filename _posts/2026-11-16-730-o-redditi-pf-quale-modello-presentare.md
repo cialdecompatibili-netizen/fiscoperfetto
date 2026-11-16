@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "730 o Redditi PF: quale modello devi presentare e quando il 730 non basta"
-date: 2026-11-16
+date: 2026-11-16 09:16:00 +0100
 permalink: /blog/dichiarazioni-fiscali/730-o-redditi-pf-quale-modello-presentare/
 excerpt: "Chi usa il 730, chi deve passare al Redditi PF e che cosa fare se hai perso le scadenze della campagna 2026."
 seo_description: "730 o Redditi PF: quale modello presentare, quando il 730 non basta (partita IVA, redditi esteri, plusvalenze) e cosa fare se hai perso la scadenza."

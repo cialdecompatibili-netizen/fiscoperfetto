@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "730 sbagliato? Cosa fare ora che le scadenze di ottobre e novembre sono passate"
-date: 2026-11-16
+date: 2026-11-16 09:05:00 +0100
 permalink: /blog/dichiarazioni-fiscali/730-sbagliato-cosa-fare-ora/
 excerpt: "Hai inviato il 730 con un errore? Le date del 730 integrativo (26 ottobre) e del Redditi correttivo (2 novembre) sono passate: cosa resta da fare e come sistemarlo."
 seo_description: "730 con errori dopo il 2 novembre 2026: scaduti il 730 integrativo (26 ottobre) e il Redditi correttivo nei termini (2 novembre), resta il modello Redditi integrativo. Come muoversi."
